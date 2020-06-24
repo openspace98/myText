@@ -1,4 +1,8 @@
 hello ????
 i am fine thx
 okokokoko
+<<<<<<< HEAD
 fkfkfkfkfkfkfkfkf
+=======
+_____________ELSE
+>>>>>>> else
